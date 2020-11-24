@@ -12,7 +12,7 @@
 
 ## :pencil2: 算法
 
-- [Leetcode 题解](https://github.com/fangsong0517/Fs-Cs-Notes/tree/main/notes/Leetcode%E9%A2%98%E8%A7%A3)
+- [Leetcode 题解](notes/Leetcode题解/目录.md)
 
 ## :computer: 操作系统
 
