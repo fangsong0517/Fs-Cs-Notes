@@ -48,7 +48,7 @@
 
 ## :wrench: 工具 
 
-- [UML使用](notes/工具/时尚最全的StarUML使用教程.md)
+- [UML使用](notes/工具/史上最全的StarUML使用教程.md)
 
 ## :watermelon: 编码实践 
 
