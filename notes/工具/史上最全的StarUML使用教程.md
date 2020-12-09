@@ -2,7 +2,24 @@
 
 ### 文章目录
 
+<!--Table of Contents-->
+=================
 
+   * [史上最全的StarUML使用教程](#史上最全的staruml使用教程)
+      * [文章目录](#文章目录)
+     * [一. 版本](#一-版本)
+     * [二. 界面说明](#二-界面说明)
+     * [三. 画图种类介绍](#三-画图种类介绍)
+       * [1. 类图（Class Diagram）](#1-类图class-diagram)
+       * [2. 用例图（Use Case Diagram）](#2-用例图use-case-diagram)
+       * [3. 时序图（Sequence Diagram）](#3-时序图sequence-diagram)
+       * [4. 组件图（Component Diagram）](#4-组件图component-diagram)
+       * [5. 部署图（Deployment Diagram）](#5-部署图deployment-diagram)
+       * [6. 协作图（Comunication Diagram）](#6-协作图comunication-diagram)
+       * [7. 对象图（Object Diagram）](#7-对象图object-diagram)
+       * [8. 活动图（Activity Diagram）](#8-活动图activity-diagram)
+
+<!--Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)-->
 
 StarUML是一款很全面，很好用的UML画图工具。相比PlantUML那种使用代码画图方式，StarUML的拖拽式更简单易用。
 
