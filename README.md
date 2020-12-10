@@ -16,7 +16,7 @@
 
 ## :computer: 操作系统
 
-- [计算机操作系统](https://github.com/fangsong0517/Fs-Cs-Notes/tree/main/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [计算机操作系统](notes/计算机操作系统/目录.md)
 
 ## :cloud: 网络 
 
