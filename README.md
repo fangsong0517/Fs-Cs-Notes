@@ -13,6 +13,7 @@
 ## :pencil2: 算法
 
 - [Leetcode 题解](notes/Leetcode题解/目录.md)
+- [Leetcode-101](notes/Leetcode-101/目录.md)
 
 ## :computer: 操作系统
 
