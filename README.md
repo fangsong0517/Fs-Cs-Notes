@@ -14,14 +14,17 @@
 
 - [Leetcode 题解](notes/Leetcode题解/目录.md)
 - [Leetcode-101](notes/Leetcode-101/目录.md)
+- [算法与数据结构面试](notes/面试/算法与数据结构面试.md)
 
 ## :computer: 操作系统
 
 - [计算机操作系统](notes/计算机操作系统/目录.md)
+- [计算机操作系统面试](notes/面试/操作系统面试.md)
 
 ## :cloud: 网络 
 
 - [计算机网络](notes/计算机网络/目录.md)
+- [计算机网络面试](notes/面试/计算机网络面试.md)
 
 ## :art: 面向对象
 
@@ -37,7 +40,7 @@
 
 ## :coffee: C++
 
-
+* [C++语言基础](notes/C++/目录.md)
 
 
 
