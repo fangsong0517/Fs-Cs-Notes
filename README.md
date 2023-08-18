@@ -42,6 +42,9 @@
 
 * [C++语言基础](notes/C++/目录.md)
 
+## :coffee: GO
+
+* [GO语言基础](notes/GO/目录.md)
 
 
 ## :bulb: 系统设计 
