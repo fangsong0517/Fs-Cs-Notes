@@ -1,6 +1,6 @@
 # Fs-Cs-Notes
 
-主要为https://github.com/CyC2018/CS-Notes 项目的改进C++版后端版本，此项目剔除了JAVA相关的知识更改为C++相关的知识。
+主要基于https://github.com/CyC2018/CS-Notes 项目的改进C++/Go版后端版本，此项目剔除了JAVA相关的知识更改为C++/Go相关的知识。
 
 <br>
 
@@ -42,7 +42,7 @@
 
 * [C++语言基础](notes/C++/目录.md)
 
-## :coffee: GO
+## :tea: GO
 
 * [GO语言基础](notes/GO/目录.md)
 
