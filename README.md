@@ -56,6 +56,7 @@
 ## :wrench: 工具 
 
 - [UML使用](notes/工具/史上最全的StarUML使用教程.md)
+- [locust+boomer压测使用](notes/工具/压测工具.md)
 
 ## :watermelon: 编码实践 
 
